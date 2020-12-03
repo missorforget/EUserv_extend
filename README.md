@@ -33,3 +33,7 @@ PASSWORD: 第一个账户密码,第二个账户密码
 ## 参考（及本文档）
 
 hostloc-auto-get-points: https://github.com/inkuang/hostloc-auto-get-points  MIT License
+
+## List
+
+1. 2020.12.03
