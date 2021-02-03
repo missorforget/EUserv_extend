@@ -37,3 +37,4 @@ hostloc-auto-get-points: https://github.com/inkuang/hostloc-auto-get-points  MIT
 ## List
 
 1. 2020.12.03
+2. 2021.02.03
